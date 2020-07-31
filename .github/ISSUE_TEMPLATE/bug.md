@@ -1,7 +1,8 @@
 ---
 name: Bug Report
 about: fallo funcional
-title: 'BUG###: REPORTO [error funcional] EN [archivo o localizacion de éste (opt: linea)]'
+title: 'BUG###: REPORTO [error funcional] EN [archivo o localizacion de éste (opt:
+  linea)]'
 labels: bug
 assignees: ''
 
