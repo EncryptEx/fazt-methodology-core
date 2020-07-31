@@ -4,7 +4,7 @@
 Fazt Metodology Core is the methodology that is carried out in the Fazt core projects. This implies the requirements, database and kanban methodology.
 
 # Pre-requisites
-* API KEY = api-key
+* [Visual Paradigm](https://www.visual-paradigm.com/download/community.jsp)
 
 # [How to contribute](https://github.com/faztcommunity/docs/blob/master/contribute.md)
 
